@@ -10,3 +10,7 @@
 > **alt + <- or ->** swipe through different files, but doesn't work on mac?
 >
 > **ctrl + tab** call the switcher which can switch files and other utilities.
+>
+> **:xa** vim functions keys for writing and closing all files
+> 
+> **shift + shift** call the searcher
