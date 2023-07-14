@@ -18,3 +18,5 @@
 > **alt + insert** call the generator
 >
 > **ctrl + shift + D** call the menu to choose which functions to have definition.
+>
+> **ctrl + Q** when cursor on red-underscore place to show preview and **alt + enter** to do the ide suggestion.
