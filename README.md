@@ -14,3 +14,7 @@
 > **:xa** vim functions keys for writing and closing all files
 > 
 > **shift + shift** call the searcher
+>
+> **alt + insert** call the generator
+>
+> **ctrl + shift + D** call the menu to choose which functions to have definition.
