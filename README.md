@@ -6,6 +6,7 @@
 > **ctrl + shift + f10** or **ctrl + shift + r** : to run the current window program
 >
 > **alt + f12** or **option + f12** open or close the terminal
+> **shift + esc** can close the terminal also
 >
 > **alt + <- or ->** swipe through different files, but doesn't work on mac?
 >
